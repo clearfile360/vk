@@ -1,0 +1,6 @@
+{
+  "name": "தமிழ் பத்திரப் பதிவு & இ-சேவை மையம் | Land & Document E-Services",
+  "description": "தமிழ்நாடு அரசு பதிவு பெற்ற பத்திர எழுத்தாளர், ஆன்லைன் பத்திரப்பதிவு (TNREGINET), வில்லங்க சான்றிதழ், பட்டா/சிட்டா மற்றும் AI சட்ட உதவியாளர்.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
